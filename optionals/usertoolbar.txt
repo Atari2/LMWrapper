@@ -1,3 +1,6 @@
 ***START***
+LM_SPACER
+***END***
+***START***
 "lmwrapper.exe" "%9"
 ***END***
