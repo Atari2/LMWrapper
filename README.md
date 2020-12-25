@@ -10,6 +10,6 @@ For now, a standard ini file is provided in "optional/lmwrapper.ini", there's no
 In that case, you need to move it in the same folder as the executable. 
 Be aware that any unknown setting (e.g. one that is not already defined in the file) will cause an error.
 The .ini file format is:
-<setting name>: <value>
+`<setting name>: <value>`
 
 Be aware that between the colon and the value there needs to be only a single space.
