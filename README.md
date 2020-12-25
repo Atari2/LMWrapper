@@ -13,3 +13,9 @@ The .ini file format is:
 `<setting name>: <value>`
 
 Be aware that between the colon and the value there needs to be only a single space.
+
+This program can be built with gcc:
+- On unix
+`gcc -O2 wrapper.c settings.c -o lmwrapper`
+- On Windows
+`gcc -O2 wrapper.c settings.c -o lmwrapper.exe`
